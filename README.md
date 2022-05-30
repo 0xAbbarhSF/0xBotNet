@@ -10,5 +10,11 @@ Automated BotNet Connection for Ddos Attack [Termux - Linux]
 * python 0xbotnet.py
 * 🔥💻💀
 
-<img src="https://raw.githubusercontent.com/0xAbbarhSF/0xBotNet/main/images%20(21).png">
+<img src="https://raw.githubusercontent.com/0xAbbarhSF/0xBotNet/main/images%20(21).jpeg">
 #### Happy Hacking 🕵️
+
+# Contact me📢
+* [YouTube](https://m.youtube.com/channel/UCfibIPgqNCmm_3QgGLE9N3w)
+* Facebook: Abbarh Issarh
+* Telegram: AbbarhSF
+* Twitter: AbbarhSF
