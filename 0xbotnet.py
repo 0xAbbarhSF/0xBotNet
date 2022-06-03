@@ -34,6 +34,8 @@ print("\033[93m")
 os.system("figlet DdoS Attack")
 print("intel : 0xAbbarhSF")
 print ("\033[92m")
+print ("Working......")
+time.sleep(5)
 print "[                    ] 0% "
 time.sleep(5)
 print "[=====               ] 25%"
